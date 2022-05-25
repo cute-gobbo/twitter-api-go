@@ -1,4 +1,4 @@
-module github.com/cute-gobbo/twitter-goapi/twitterapi
+module github.com/cute-gobbo/twitter-go-api
 
 go 1.13
 
